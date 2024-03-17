@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Reverse Engineering**
 
-- 👨‍💻 All of my projects are available at [ohhtys.pages.dev](ohhtys.pages.dev)
+- 👨‍💻 All of my projects are available at [tysen.pages.dev](tysen.pages.dev)
 
 - 💬 Ask me about **Operations Security, and Coding/Developing**
 
